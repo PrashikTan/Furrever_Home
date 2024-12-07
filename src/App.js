@@ -45,6 +45,3 @@ export default App;
 
 //updating main
 
-
-
-// Hello From Git
