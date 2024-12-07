@@ -44,6 +44,4 @@ export default App;
 //hello this is a test
 
 //updating main
-//mei hu hero
 
-//okay boss
